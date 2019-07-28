@@ -28,7 +28,7 @@ cd svelte-app
 yarn
 ```
 
-...then start [Webpack devserver](https://rollupjs.org):
+...then start [Webpack DevServer](https://webpack.js.org/configuration/dev-server/):
 
 ```bash
 yarn start
